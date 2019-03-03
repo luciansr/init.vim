@@ -9,3 +9,5 @@ What I've installed along with nvim:
  * ZSH
  * Oh My Zsh
  * Roboto Mono Medium for Powerline Vim Plugin (12pt)
+ * * https://github.com/powerline/fonts/tree/master/RobotoMono
+ * zsh-syntax-highlighting

@@ -13,11 +13,12 @@ set number
 set hidden
 set relativenumber
 
-
 let mapleader="\<space>"
 nnoremap <leader>sv :source $MYVIMRC<cr>
 nnoremap <c-p> :Files<cr>
 nnoremap <c-f> :Ag<space>
 nnoremap <c-b> :NERDTreeToggle<cr>
+" nnoremap <D-B> :NERDTreeToggle<cr>
 
 let g:airline_theme='wombat'
+" let g:airline_left_sep=''
