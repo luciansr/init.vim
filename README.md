@@ -2,7 +2,7 @@
 
 This is my nvim config. 
 
-What I've installed along with nvim?
+What I've installed along with nvim:
 
  * iTerm 2
  * dracula and material-design themes for iTerm 2
